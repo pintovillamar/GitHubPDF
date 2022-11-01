@@ -16,8 +16,8 @@ alt="GitHub PDF Icon" height="40%" width="40%"/></br></br></br>
 - Rate this extension
 
 ## Credits
-- [@ksDemon]{https://github.com/ksdemon}
-- [@pintovillamar]{https://github.com/pintovillamar}
+- [@ksDemon](https://github.com/ksdemon)
+- [@pintovillamar](https://github.com/pintovillamar)
 
 ## Disclaimer
 This project is not affiliated to GitHub in any way, shape or form. The project is almost open-source and free to use. For any legal concerns, contact me at josepinto.jpv@gmail.com.
